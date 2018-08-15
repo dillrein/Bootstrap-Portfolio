@@ -1,0 +1,113 @@
+ *{
+box-sizing: border-box;
+max-width: 960px;
+
+}
+
+body{
+   
+}
+
+header{
+    
+    
+}
+
+.bio-image{
+    float: left;
+    transform: rotate(-90deg);
+    margin: 5px;
+    margin: 3px;
+    height: 120px;
+    width: 160px;
+}
+
+h1{
+    margin: 0px;
+    
+
+}
+
+h2{
+    
+
+    
+
+}
+
+.links{
+    
+
+
+}
+
+
+.content{
+    
+}
+
+.button{
+   
+
+
+}
+
+p{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+
+}
+
+/* .image-text{ 
+    position: relative;
+    text-align: center;
+    width: 50%;
+    margin: 0;
+    display: block;     
+} */
+
+/* .pic-caption{
+    position: absolute;
+    padding: 5px 0px;
+    color: white;
+    background-color: #4aaaa5;
+    opacity: 1;
+    bottom: 10px;
+    font-size: 10px;
+    width:128px;
+    opacity: 0.85; 
+
+    
+}*/
+
+/* .picture{
+    padding:0px;
+} */
+
+/* creates 3 columns equal */
+/* .column {
+    float: left;
+    padding: 5px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.foots{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: darkslategrey;
+    margin: 65px 0px 0px;
+    border-top: solid #4aaaa5 3px; 
+}*/
